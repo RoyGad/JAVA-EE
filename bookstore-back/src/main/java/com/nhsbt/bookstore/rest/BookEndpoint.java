@@ -33,7 +33,7 @@ import static javax.ws.rs.core.MediaType.TEXT_PLAIN;
             url = "https://app.nhsbt.com/library/search?q=Antonio+Goncalves"
         )
     ),
-    host = "localhost:8080",
+    host = "localhost:8082",
     basePath = "/bookstore-back/api",
     schemes = {SwaggerDefinition.Scheme.HTTP, SwaggerDefinition.Scheme.HTTPS},
     tags = {

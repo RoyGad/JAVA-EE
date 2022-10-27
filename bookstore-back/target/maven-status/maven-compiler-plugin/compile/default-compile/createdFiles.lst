@@ -1,0 +1,9 @@
+com\nhsbt\bookstore\rest\CORSFilter.class
+com\nhsbt\bookstore\util\NumberGenerator.class
+com\nhsbt\bookstore\util\IsbnGenerator.class
+com\nhsbt\bookstore\util\TextUtil.class
+com\nhsbt\bookstore\model\Language.class
+com\nhsbt\bookstore\rest\BookEndpoint.class
+com\nhsbt\bookstore\model\Book.class
+com\nhsbt\bookstore\repository\BookRepository.class
+com\nhsbt\bookstore\rest\JAXRSConfiguration.class
